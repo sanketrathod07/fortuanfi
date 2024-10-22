@@ -1,0 +1,10 @@
+/* body {
+    height: 100vh;
+} */
+
+/* Custom scrollbar style for WebKit (Chrome, Safari, Edge) */
+::-webkit-scrollbar {
+    width: 0px;
+    background-color: transparent;
+    visibility: hidden;
+}
